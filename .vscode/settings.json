@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/*.lnk": true,
+    "**/*.zip": true,
+    "**/sounds": true
+  }
+}
