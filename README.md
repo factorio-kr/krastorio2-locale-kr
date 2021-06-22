@@ -1,4 +1,4 @@
-# Krastorio 2 korean locale
+# Krastorio 2 korean translation
 
 for [Factorio](https://www.factorio.com/) - [Krastorio 2 Mod](https://mods.factorio.com/mod/Krastorio2) :heart_eyes:	:kr:
 
