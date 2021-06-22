@@ -1,6 +1,6 @@
 # Krastorio 2 korean locale
 
-for [Factorio](https://www.factorio.com/) - [Krastorio 2 Mod](https://mods.factorio.com/mod/Krastorio) :heart_eyes:	:kr:
+for [Factorio](https://www.factorio.com/) - [Krastorio 2 Mod](https://mods.factorio.com/mod/Krastorio2) :heart_eyes:	:kr:
 
 * [Crowdin project](https://crowdin.com/project/krastorio-2/ko)
 
