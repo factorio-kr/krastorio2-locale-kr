@@ -2,7 +2,7 @@
 
 for [Factorio](https://www.factorio.com/) - [Krastorio 2 Mod](https://mods.factorio.com/mod/Krastorio) :heart_eyes:	:kr:
 
-* [Crowdin korean translation project](https://crowdin.com/project/krastorio-2/ko)
+* [Crowdin project](https://crowdin.com/project/krastorio-2/ko)
 
 ![Factorio](https://factorio.com/static/img/factorio-logo.png)
 
